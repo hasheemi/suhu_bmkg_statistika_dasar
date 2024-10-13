@@ -1,0 +1,677 @@
+[
+  {
+    "kabupaten": "Jakarta Barat",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Jakarta Pusat",
+    "suhuMinimal": 25,
+    "suhuMaksimal": 29
+  },
+  {
+    "kabupaten": "Jakarta Selatan",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Jakarta Timur",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Jakarta Utara",
+    "suhuMinimal": 25,
+    "suhuMaksimal": 29
+  },
+  {
+    "kabupaten": "Kepulauan Seribu",
+    "suhuMinimal": 26,
+    "suhuMaksimal": 28
+  },
+  {
+    "kabupaten": "Bantul",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Sleman",
+    "suhuMinimal": 22,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Wates",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Gunung Kidul",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Yogyakarta",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Anyer",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Bayah",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Binuangen",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Bojonegara",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Carita",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Ciruas",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Gunung kencana",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Kab. Lebak",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Kota Cilegon",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Kota Tangerang",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Labuan",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Malingping",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Pandeglang",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Pelabuhan Merak",
+    "suhuMinimal": 0,
+    "suhuMaksimal": 0
+  },
+  {
+    "kabupaten": "Rangkasbitung",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Serang",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Serpong",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Tigaraksa",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Bandung",
+    "suhuMinimal": 19,
+    "suhuMaksimal": 25
+  },
+  {
+    "kabupaten": "Banjar",
+    "suhuMinimal": 21,
+    "suhuMaksimal": 29
+  },
+  {
+    "kabupaten": "Bekasi",
+    "suhuMinimal": 22,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Ciamis",
+    "suhuMinimal": 21,
+    "suhuMaksimal": 29
+  },
+  {
+    "kabupaten": "Cianjur",
+    "suhuMinimal": 19,
+    "suhuMaksimal": 27
+  },
+  {
+    "kabupaten": "Cibinong",
+    "suhuMinimal": 22,
+    "suhuMaksimal": 29
+  },
+  {
+    "kabupaten": "Cikarang",
+    "suhuMinimal": 22,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Cimahi",
+    "suhuMinimal": 20,
+    "suhuMaksimal": 25
+  },
+  {
+    "kabupaten": "Cipanas",
+    "suhuMinimal": 19,
+    "suhuMaksimal": 28
+  },
+  {
+    "kabupaten": "Cirebon",
+    "suhuMinimal": 22,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Cisarua",
+    "suhuMinimal": 18,
+    "suhuMaksimal": 24
+  },
+  {
+    "kabupaten": "Depok",
+    "suhuMinimal": 22,
+    "suhuMaksimal": 29
+  },
+  {
+    "kabupaten": "Gadog",
+    "suhuMinimal": 19,
+    "suhuMaksimal": 27
+  },
+  {
+    "kabupaten": "Garut",
+    "suhuMinimal": 18,
+    "suhuMaksimal": 26
+  },
+  {
+    "kabupaten": "Indramayu",
+    "suhuMinimal": 22,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Karawang",
+    "suhuMinimal": 22,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Kota Bogor",
+    "suhuMinimal": 20,
+    "suhuMaksimal": 28
+  },
+  {
+    "kabupaten": "Kuningan",
+    "suhuMinimal": 20,
+    "suhuMaksimal": 28
+  },
+  {
+    "kabupaten": "Lembang",
+    "suhuMinimal": 18,
+    "suhuMaksimal": 25
+  },
+  {
+    "kabupaten": "Majalengka",
+    "suhuMinimal": 21,
+    "suhuMaksimal": 28
+  },
+  {
+    "kabupaten": "Parigi",
+    "suhuMinimal": 21,
+    "suhuMaksimal": 28
+  },
+  {
+    "kabupaten": "Pelabuhan Ratu",
+    "suhuMinimal": 0,
+    "suhuMaksimal": 0
+  },
+  {
+    "kabupaten": "Purwakarta",
+    "suhuMinimal": 21,
+    "suhuMaksimal": 29
+  },
+  {
+    "kabupaten": "Singaparna",
+    "suhuMinimal": 20,
+    "suhuMaksimal": 28
+  },
+  {
+    "kabupaten": "Soreang",
+    "suhuMinimal": 20,
+    "suhuMaksimal": 26
+  },
+  {
+    "kabupaten": "Subang",
+    "suhuMinimal": 21,
+    "suhuMaksimal": 29
+  },
+  {
+    "kabupaten": "Kab.Sukabumi",
+    "suhuMinimal": 20,
+    "suhuMaksimal": 26
+  },
+  {
+    "kabupaten": "Sumber",
+    "suhuMinimal": 22,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Sumedang",
+    "suhuMinimal": 20,
+    "suhuMaksimal": 25
+  },
+  {
+    "kabupaten": "Tasikmalaya",
+    "suhuMinimal": 20,
+    "suhuMaksimal": 28
+  },
+  {
+    "kabupaten": "Pelabuhan Ratu",
+    "suhuMinimal": 0,
+    "suhuMaksimal": 0
+  },
+  {
+    "kabupaten": "Bangkalan",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Banyuwangi",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Batu",
+    "suhuMinimal": 17,
+    "suhuMaksimal": 28
+  },
+  {
+    "kabupaten": "Bojonegoro",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Bondowoso",
+    "suhuMinimal": 22,
+    "suhuMaksimal": 29
+  },
+  {
+    "kabupaten": "Gresik",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Jember",
+    "suhuMinimal": 22,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Jombang",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Kabupaten Blitar",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Kabupaten Kediri",
+    "suhuMinimal": 22,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Kabupaten Madiun",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Kabupaten Malang",
+    "suhuMinimal": 21,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Kabupaten Mojokerto",
+    "suhuMinimal": 21,
+    "suhuMaksimal": 29
+  },
+  {
+    "kabupaten": "Kabupaten Pasuruan",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 29
+  },
+  {
+    "kabupaten": "Kabupaten Probolinggo",
+    "suhuMinimal": 22,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Kota Blitar",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Kota Kediri",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Kota Madiun",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Kota Malang",
+    "suhuMinimal": 21,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Kota Mojokerto",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Kota Pasuruan",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Kota Probolinggo",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Lamongan",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Lumajang",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Magetan",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Nganjuk",
+    "suhuMinimal": 22,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Ngawi",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Pacitan",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Pamekasan",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Ponorogo",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Sampang",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Sidoarjo",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 33
+  },
+  {
+    "kabupaten": "Situbondo",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Sumenep",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Surabaya",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 33
+  },
+  {
+    "kabupaten": "Trenggalek",
+    "suhuMinimal": 22,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Tuban",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Tulungagung",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Pelabuhan Surabaya",
+    "suhuMinimal": 0,
+    "suhuMaksimal": 0
+  },
+  {
+    "kabupaten": "Banjarnegara",
+    "suhuMinimal": 21,
+    "suhuMaksimal": 29
+  },
+  {
+    "kabupaten": "Batang",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Blora",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Boyolali",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Brebes",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Cilacap",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Demak",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Jepara",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Kajen",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Karanganyar",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Kebumen",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Kendal",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Klaten",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Kudus",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Magelang",
+    "suhuMinimal": 22,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Mungkid",
+    "suhuMinimal": 22,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Pati",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Pekalongan",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Pemalang",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Purbalingga",
+    "suhuMinimal": 21,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Purwodadi",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Purwokerto",
+    "suhuMinimal": 22,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Purworejo",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Rembang",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Salatiga",
+    "suhuMinimal": 22,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Semarang",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Slawi",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Sragen",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Sukoharjo",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Surakarta",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Tegal",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Temanggung",
+    "suhuMinimal": 22,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Ungaran",
+    "suhuMinimal": 23,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Wonogiri",
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Wonosobo",
+    "suhuMinimal": 20,
+    "suhuMaksimal": 29
+  },
+  {
+    "kabupaten": "Pelabuhan Semarang",
+    "suhuMinimal": 0,
+    "suhuMaksimal": 0
+  }
+]

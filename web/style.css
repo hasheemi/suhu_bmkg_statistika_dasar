@@ -1,0 +1,39 @@
+.container {
+  width: 100vw;
+}
+.kab {
+  display: flex;
+  font-family: sans-serif;
+  font-size: 20px;
+  flex-wrap: nowrap;
+  text-transform: capitalize;
+  width: 80vw;
+  margin: 10px auto;
+  justify-items: center;
+  border-bottom: 1px solid lightskyblue;
+  padding: 10px;
+}
+.kab div {
+  width: 30%;
+  text-align: center;
+}
+html {
+  overflow-x: hidden;
+}
+.count {
+  display: flex;
+  width: 90vw;
+  margin: 20px auto;
+}
+.count div {
+  width: 50%;
+}
+.count h2 {
+  text-align: center;
+}
+.count div .item {
+  width: 100%;
+  display: flex;
+  text-align: center;
+  justify-content: center !important;
+}

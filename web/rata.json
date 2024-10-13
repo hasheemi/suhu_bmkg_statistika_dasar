@@ -1,0 +1,230 @@
+[
+  {
+    "kabupaten": "Bangkalan",
+    "index": 1,
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Banyuwangi",
+    "index": 2,
+    "suhuMinimal": 23,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Batu",
+    "index": 3,
+    "suhuMinimal": 17,
+    "suhuMaksimal": 27
+  },
+  {
+    "kabupaten": "Bojonegoro",
+    "index": 4,
+    "suhuMinimal": 23,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Bondowoso",
+    "index": 5,
+    "suhuMinimal": 22,
+    "suhuMaksimal": 28
+  },
+  {
+    "kabupaten": "Gresik",
+    "index": 6,
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Jember",
+    "index": 7,
+    "suhuMinimal": 22,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Jombang",
+    "index": 8,
+    "suhuMinimal": 23,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Kabupaten Blitar",
+    "index": 9,
+    "suhuMinimal": 22,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Kabupaten Kediri",
+    "index": 10,
+    "suhuMinimal": 22,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Kabupaten Madiun",
+    "index": 11,
+    "suhuMinimal": 23,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Kabupaten Malang",
+    "index": 12,
+    "suhuMinimal": 22,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Kabupaten Mojokerto",
+    "index": 13,
+    "suhuMinimal": 21,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Kabupaten Pasuruan",
+    "index": 14,
+    "suhuMinimal": 23,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Kabupaten Probolinggo",
+    "index": 15,
+    "suhuMinimal": 23,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Kota Blitar",
+    "index": 16,
+    "suhuMinimal": 24,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Kota Kediri",
+    "index": 17,
+    "suhuMinimal": 24,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Kota Madiun",
+    "index": 18,
+    "suhuMinimal": 24,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Kota Malang",
+    "index": 19,
+    "suhuMinimal": 22,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Kota Mojokerto",
+    "index": 20,
+    "suhuMinimal": 24,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Kota Pasuruan",
+    "index": 21,
+    "suhuMinimal": 24,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Kota Probolinggo",
+    "index": 22,
+    "suhuMinimal": 25,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Lamongan",
+    "index": 23,
+    "suhuMinimal": 24,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Lumajang",
+    "index": 24,
+    "suhuMinimal": 23,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Magetan",
+    "index": 25,
+    "suhuMinimal": 20,
+    "suhuMaksimal": 29
+  },
+  {
+    "kabupaten": "Nganjuk",
+    "index": 26,
+    "suhuMinimal": 23,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Ngawi",
+    "index": 27,
+    "suhuMinimal": 23,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Pacitan",
+    "index": 28,
+    "suhuMinimal": 24,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Pamekasan",
+    "index": 29,
+    "suhuMinimal": 23,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Ponorogo",
+    "index": 30,
+    "suhuMinimal": 24,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Sampang",
+    "index": 31,
+    "suhuMinimal": 23,
+    "suhuMaksimal": 31
+  },
+  {
+    "kabupaten": "Sidoarjo",
+    "index": 32,
+    "suhuMinimal": 24,
+    "suhuMaksimal": 33
+  },
+  {
+    "kabupaten": "Situbondo",
+    "index": 33,
+    "suhuMinimal": 23,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Sumenep",
+    "index": 34,
+    "suhuMinimal": 23,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Surabaya",
+    "index": 35,
+    "suhuMinimal": 24,
+    "suhuMaksimal": 33
+  },
+  {
+    "kabupaten": "Trenggalek",
+    "index": 36,
+    "suhuMinimal": 21,
+    "suhuMaksimal": 30
+  },
+  {
+    "kabupaten": "Tuban",
+    "index": 37,
+    "suhuMinimal": 24,
+    "suhuMaksimal": 32
+  },
+  {
+    "kabupaten": "Tulungagung",
+    "index": 38,
+    "suhuMinimal": 23,
+    "suhuMaksimal": 30
+  }
+]
